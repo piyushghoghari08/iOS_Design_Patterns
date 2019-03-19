@@ -64,7 +64,5 @@ class Constants: NSObject {
         static let HOST_URL                      = ""
         //Authentication
         static let LOGIN                         = HOST_URL + "login"
-        static let USER_REGISTER                 = HOST_URL + "userRegister"
-        static let FORGOT_PASSWORD               = HOST_URL + "forgotPassword"
     }
 }
