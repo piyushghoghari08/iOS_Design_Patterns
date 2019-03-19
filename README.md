@@ -1,3 +1,9 @@
-# projectCodeStructer
+<h4> Code Structer </h4> </br>
+==============================
 
-<h3> MVC & MVVM Basic iOS Project Structer - Swift</h3>
+1) Language : Swift
+2) Code Patten : MVC & MVVM
+3) 3rd Party Lib : Alamofire, SDWebImage, TPKeyBoard, Reachability
+
+
+Easy to used and Easy to understand
